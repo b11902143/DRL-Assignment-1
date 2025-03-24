@@ -14,7 +14,7 @@ import random
 
 
 class SimpleTaxiEnv():
-    def __init__(self, grid_size=5, fuel_limit=50):
+    def __init__(self, grid_size=5, fuel_limit=5000):
         """
         Custom Taxi environment supporting different grid sizes.
         """

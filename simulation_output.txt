@@ -1,0 +1,12 @@
+Training new policy using policy gradient...
+Episode 50/2000, total reward: -50444.99999999551
+Episode 100/2000, total reward: -38234.999999996406
+Episode 150/2000, total reward: -50509.9999999955
+Episode 200/2000, total reward: -50509.9999999955
+Episode 250/2000, total reward: -50499.9999999955
+Episode 300/2000, total reward: -25509.999999998225
+Episode 350/2000, total reward: -50509.9999999955
+Episode 400/2000, total reward: -50499.9999999955
+Episode 450/2000, total reward: -50499.9999999955
+Episode 500/2000, total reward: -50509.9999999955
+Episode 550/2000, total reward: -50509.9999999955
